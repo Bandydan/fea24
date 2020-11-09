@@ -1,3 +1,6 @@
+this is a new code
+a damn new code
+so new!
 def my_zip(x1, x2):
 	length = min(len(x1), len(x2))
 	for i in range(length):
