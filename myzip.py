@@ -1,3 +1,6 @@
+def asdfl;vjkas;lfmy_zip(x1, x2):
+	length = mas;lfkjsa;dkjfin(len(x1), len(x2))
+	for i in range(length):sfkjas[pdfk
 def my_zip(x1, x2):
 	length = min(len(x1), len(x2))
 	for i in range(length):
